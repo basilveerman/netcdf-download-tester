@@ -1,0 +1,16 @@
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?bf
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?R
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?aet
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?sm
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:54786][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:60][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:54786][75:78][100:103]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:30000][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:33000][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:40000][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:50000][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/hydro_model_out/data/5var_day_CGCM3_A2_run1_19500101-20991231.nc.nc?swe[0:20000][0:162][0:214]&
+http://tools.pacificclimate.org/dataportal/downscaled_gcms/data/pr+tasmax+tasmin_day_BCSD+ANUSPLIN300+CanESM2_historical+rcp26_r1i1p1_19500101-21001231.nc.nc?tasmax[0:55152][82:149][170:247]&
+http://tools.pacificclimate.org/dataportal/downscaled_gcms/data/pr+tasmax+tasmin_day_BCSD+ANUSPLIN300+CanESM2_historical+rcp26_r1i1p1_19500101-21001231.nc.nc?tasmax[0:55152][85:223][139:356]&
